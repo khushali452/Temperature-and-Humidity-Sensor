@@ -1,2 +1,2 @@
 # Temperature and Humidity Sensor
- Arduino Based Temperature and Humidity sensor using NodeMCU- ESP8266 WiFi module and DHT22 sensor.
+This Project is about Arduino Based Temperature and Humidity sensor using NodeMCU- ESP8266 WiFi module which connect to a WiFi network as well as interact with the Internet and DHT22 sensor which is digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin.
